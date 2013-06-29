@@ -1,7 +1,7 @@
 Dragons of Atlantis Wilderness Mapper
 -------------------------------------
 
-So, you want to find level 10s near predefined coordinates.
+So, you want to find level 10s (or any other level of wilds) near predefined coordinates.
 
 When the game is loaded, a file called 'map.bin' is prefetched. 
 This file contains one whole realm of coordinates regarding wilds and their level (not ownership).
@@ -13,7 +13,7 @@ the realm coordinates in format XY, and the wild type/level.
 
 Kabam did not encrypt this file with any algorithm, and its decoding is fairly easy.
 
-Example output for Realm Mesite:
+Example output for Realm Mesite: (the binary corresponds to the decoding - if you don't know what it is, then ignore it.)
 
 start: 2013-06-29 03:31:29
 -     0- [0 x 0]  ctype[  mountain] level[ 6]   100110x 1 [x000 y000]
