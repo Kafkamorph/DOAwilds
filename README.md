@@ -40,5 +40,5 @@ start: 2013-06-29 03:31:29
 
 (etc etc, until 749x749)
 
-Note: the map.bin file contains the whole 749x749 coordinates (562500 tiles total), and the first 2 bytes are bogus. 
+Note: the map.bin file contains the whole 750x750 (0-749x0-749) coordinates (562500 tiles total), and the first 2 bytes are bogus. 
 Yes, 2 full bytes! That's the whole range of Kabam's attempt at protecting this file's data.
