@@ -17,7 +17,7 @@ Usage: just place map.bin in the same directory as map.php and run it.
 
 Example output for Realm Mesite: (the binary corresponds to the decoding - if you don't know what it is, then ignore it.)
 
-Bugs: 'level' of cities are incorrect. Blame Kabam. :P
+Bugs: 'level' of cities is incorrect. Blame Kabam. :P
 
 start: 2013-06-29 03:31:29
 -     0- [0 x 0]  ctype[  mountain] level[ 6]   100110x 1 [x000 y000]
