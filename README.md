@@ -13,6 +13,8 @@ the realm coordinates in format XY, and the wild type/level.
 
 Kabam did not encrypt this file with any algorithm, and its decoding is fairly easy.
 
+Usage: just place map.bin in the same directory as map.php and run it.
+
 Example output for Realm Mesite: (the binary corresponds to the decoding - if you don't know what it is, then ignore it.)
 
 start: 2013-06-29 03:31:29
