@@ -4,7 +4,7 @@ Dragons of Atlantis Wilderness Mapper
 So, you want to find level 10s (or any other level of wilds) near predefined coordinates.
 
 When the game is loaded, a file called 'map.bin' is prefetched. 
-This file contains one whole realm of coordinates regarding wilds and their level (not ownership).
+This file contains one whole realm of coordinates regarding wilds, cities and their level (not ownership).
 
 The file can be easily found in your browser's cache.
 
