@@ -39,3 +39,6 @@ start: 2013-06-29 03:31:29
 -    15- [0 x 15]  ctype[    savana] level[ 1]  1010001x 16 [x000 y015]
 
 (etc etc, until 749x749)
+
+Note: the map.bin file contains the whole 749x749 coordinates (562500 tiles total), and the first byte is bogus. 
+Yes, 1 full byte. That's the whole range of Kabam's attempt at protecting this file's data.
