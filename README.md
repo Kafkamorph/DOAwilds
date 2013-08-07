@@ -8,6 +8,8 @@ This file contains one whole realm of coordinates regarding wilds, cities and th
 can fetch that too, using the tile_at.json API call, if you know how to use it.)
 
 The file can be easily found in your browser's cache.
+OR
+just point to a realm's full address (http://realm291.c13.castle.wonderhill.com/map.bin) < It's not protected, you can get the map.bin for all realms without authentication.
 
 This small yet useful .php file reads the map.bin, and outputs (can be put in Sql for all your needs) all of
 the realm coordinates in format XY, and the wild type/level.
