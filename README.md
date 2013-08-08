@@ -46,4 +46,4 @@ Note: the map.bin file contains the whole 750x750 (0-749x0-749) coordinates (562
 Yes, 2 full bytes! That's the whole range of Kabam's attempt at protecting this file's data.
 So, the map.bin file has 562502 bytes. Duh.
 
-Shoutouts: Semper Fi, Godric, Dragon Reborn.
+Shoutouts: Semper Fi. No one else at the moment. :P
